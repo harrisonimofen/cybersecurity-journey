@@ -1,0 +1,38 @@
+# Linux Learning Journey
+
+## About This Repository
+
+This repository documents my practical journey learning Linux fundamentals and cybersecurity.
+
+I am a beginner, and my goal is to develop real technical skills through hands-on exercises, practice and consistent documentation.
+
+## Practical 1: Ubuntu and WSL Setup
+
+### What I worked on
+
+- Explored Ubuntu running through Windows Subsystem for Linux (WSL 2).
+- Checked my current Linux user.
+- Learned about the root account.
+- Created a normal Linux user named `harrymofe`.
+- Added the user to the `sudo` group.
+- Configured Ubuntu to use my new account by default.
+
+### Commands Practised
+
+| Command | Purpose |
+|---|---|
+| `whoami` | Displays the current user |
+| `pwd` | Displays the current directory |
+| `uname -r` | Displays the Linux kernel release |
+| `printenv WSL_DISTRO_NAME` | Displays the WSL distribution name |
+| `ls /home` | Lists contents of the home directory |
+| `getent passwd` | Displays account information |
+| `id harrymofe` | Displays user and group information | 
+
+## What I Am Learning
+
+I am learning how Linux users, permissions, commands and the operating system work.
+
+This is an ongoing learning project. More practical exercises will be added as I progress.
+
+**Status:** Beginner — actively learning.
