@@ -1,0 +1,39 @@
+# Linux System Administration – Practical Assignment
+
+## Project Overview
+This project documents my hands-on practice with Linux system diagnostics and monitoring using Kali Linux running in Oracle VirtualBox.
+
+## Objectives
+To understand how Linux systems provide information about hardware, memory, storage, processes, network connections and system logs.
+
+## Commands Practised
+
+1. `uname -a` – Displays kernel and system information.
+2. `uptime` – Shows how long the system has been running.
+3. `lscpu` – Displays CPU information.
+4. `free -h` – Shows memory usage.
+5. `df -h` – Displays disk space usage.
+6. `lsblk` – Lists storage devices and partitions.
+7. `ps aux` – Displays running processes.
+8. `top` – Monitors processes and system resources.
+9. `vmstat` – Reports memory, CPU and system activity.
+10. `iostat` – Displays CPU and disk I/O statistics.
+11. `dmesg` – Displays kernel messages.
+12. `netstat -tuln` – Displays listening network ports.
+13. `ss -tuln` – Shows socket and listening-port information.
+14. `journalctl` – Displays system journal logs.
+15. `sar` – Reports system activity statistics.
+
+## Skills Practised
+- Linux command-line navigation
+- System monitoring
+- CPU and memory diagnostics
+- Storage monitoring
+- Process management
+- Network diagnostics
+- System log inspection
+
+## Learning Outcome
+This practical improved my understanding of Linux system administration and introduced me to useful diagnostic tools relevant to defensive cybersecurity.
+
+**Status:** Completed practical exercise.
